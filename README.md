@@ -1,5 +1,5 @@
 # GOOD-QUESTNS (MEDIUM)
-### https://leetcode.com/problems/restore-ip-addresses/(See 2 solutions).
+### https://leetcode.com/problems/restore-ip-addresses/ (See 2 solutions).
 ### https://leetcode.com/problems/where-will-the-ball-fall/
 ### https://leetcode.com/problems/minimum-genetic-mutation/
 ### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
