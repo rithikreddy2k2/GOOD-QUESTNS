@@ -4,6 +4,7 @@
 ### https://leetcode.com/problems/minimum-genetic-mutation/
 ### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
 ### https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/ (Solve using Trie && Hamming Distance)
+### https://leetcode.com/problems/jump-game-ii/ (O(N) solution is good)
 ## TREE:
 ### https://www.lintcode.com/problem/1307/
 ## GRAPH:
