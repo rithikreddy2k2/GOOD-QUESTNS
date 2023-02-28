@@ -7,6 +7,7 @@
 ### https://leetcode.com/problems/jump-game-ii/ (O(N) solution is good)
 ## TREE:
 ### https://www.lintcode.com/problem/1307/
+### https://leetcode.com/problems/find-duplicate-subtrees/ (Why Post-Order or something else?? (For those who thinks this should be preorder instead, it's actually postorder indeed. Even the cur.val is in the beginning of string serial, it doesn't make the algorithm preorder. The order of value in the string serial doesn't really matter, it's the order that we process subtrees or current tree node first that matters. As the string serial is adding to the HashMap and to the result list (this is when we done processing the current tree node, adding cur.val to serial is not) after we processing things for the left and right subtrees, this is still postorder.))
 ## GRAPH:
 ### https://leetcode.com/problems/snakes-and-ladders/ (Standard one)
 ### https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/
